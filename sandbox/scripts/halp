@@ -1,0 +1,26 @@
+#!/bin/bash
+
+echo
+echo
+echo -ne "\u001b[1;30m"
+echo -ne "##        #######  ##    ##  ######    ######  ##     ##  #######  ########  ######## ##     ##    ###    ##    ##\n"
+echo -ne "##       ##     ## ###   ## ##    ##  ##    ## ##     ## ##     ## ##     ## ##       ###   ###   ## ##   ###   ##\n"
+echo -ne "##       ##     ## ####  ## ##        ##       ##     ## ##     ## ##     ## ##       #### ####  ##   ##  ####  ##\n"
+echo -ne "##       ##     ## ## ## ## ##   ####  ######  ######### ##     ## ########  ######   ## ### ## ##     ## ## ## ##\n"
+echo -ne "##       ##     ## ##  #### ##    ##        ## ##     ## ##     ## ##   ##   ##       ##     ## ######### ##  ####\n"
+echo -ne "##       ##     ## ##   ### ##    ##  ##    ## ##     ## ##     ## ##    ##  ##       ##     ## ##     ## ##   ###\n"
+echo -ne "########  #######  ##    ##  ######    ######  ##     ##  #######  ##     ## ######## ##     ## ##     ## ##    ##\n"
+echo -ne "\u001b[0m"
+echo -ne "\n\n\n"
+echo -ne "Welcome to \u001b[1;32mLONGSHOREMAN\u001b[0m, an \u001b[1mINTERACTIVE\u001b[0m shell for exploring\n"
+echo -ne "\u001b[1mDOCKER\u001b[0m containers, from the comfort of your web browser.\n"
+echo -ne "\n"
+echo -ne "Type a command below (at the \u001b[1;32m#\u001b[0m prompt) to run it inside of\n"
+echo -ne "the \u001b[1;36mjhunt/sandbox\u001b[0m container, and see its output here.\n"
+echo -ne "\n\n"
+echo -ne "A few 'builtin' commands:\n"
+echo -ne "\n"
+echo -ne "   \u001b[1;31mdump\u001b[0m  Dump the images Dockerfile\n"
+echo -ne "   \u001b[1;31mhelp\u001b[0m  Show this help message again\n"
+echo -ne "\n\n"
+echo -ne "Happy Hacking!\n"
