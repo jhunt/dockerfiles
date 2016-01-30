@@ -16,7 +16,7 @@ echo -ne "Welcome to \u001b[1;32mLONGSHOREMAN\u001b[0m, an \u001b[1mINTERACTIVE\
 echo -ne "\u001b[1mDOCKER\u001b[0m containers, from the comfort of your web browser.\n"
 echo -ne "\n"
 echo -ne "Type a command below (at the \u001b[1;32m#\u001b[0m prompt) to run it inside of\n"
-echo -ne "the \u001b[1;36mjhunt/sandbox\u001b[0m container, and see its output here.\n"
+echo -ne "the \u001b[1;36mfilefrog/sandbox\u001b[0m container, and see its output here.\n"
 echo -ne "\n\n"
 echo -ne "A few 'builtin' commands:\n"
 echo -ne "\n"
