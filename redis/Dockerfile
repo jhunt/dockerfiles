@@ -1,2 +1,2 @@
-FROM ubuntu
-RUN apt-get update && apt-get install -y git
+FROM alpine
+RUN apk add --update curl bash git redis jq
